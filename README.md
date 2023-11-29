@@ -15,4 +15,4 @@ Using the computer's camera to recognize our hands, this interactive game displa
 Text-based Game
 
 In this game, only text appears on the screen, specifying tasks for the player, such as turning on a red light bulb or finding all the letter "O"s. Subsequently, players need to complete these tasks by performing actions like moving, clicking, or dragging on the screen or breadboard. Throughout the process, there may be some simple dialogues, like "Why not try moving something?" or "Can't find it, huh? Hahaha," adding a playful element to the game.
-![image description](./1.png)
+![image description](./1.jpg)
