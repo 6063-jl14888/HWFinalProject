@@ -23,11 +23,11 @@ In this game, only text appears on the screen, specifying tasks for the player, 
 
 
 ## Milestone 2
-System diagram
+**System diagram**
 ![image description](./c.jpg)
-FSM
+**FSM diagram**
 ![image description](./a.jpg)
-Circuit diagram
+**Circuit diagram**
 ![image description](./b.jpg)
 
 In HW12, I have debugged and tested the basic coding for connecting buttons with the visual elements in P5.js. This part works well, and I just need to replicate it for seven different colors and positions. However, I need to figure out how to arrange seven LED lights orderly on the breadboard, considering the limited space and available digital pins. I must pay attention to the circuit connections.
