@@ -1,5 +1,5 @@
 # HWFinalProject
-**Milestone 1**
+## Milestone 1
 Instrument
 
 This instrument can be played using seven buttons, each representing a different musical note. When a note is played, a corresponding indicator light will illuminate. Simultaneously, seven graphics on the screen represent the seven notes. Depending on the button pressed, a clicking animation will appear in the row corresponding to the pressed note, accompanied by ripple-like waves at the bottom of the screen, resembling sound waves. Additionally, users can also play the instrument by clicking on the graphics displayed on the screen.
@@ -19,7 +19,7 @@ In this game, only text appears on the screen, specifying tasks for the player, 
 
 
 
-**Milestone 2**
+## Milestone 2
 System diagram
 ![image description](./c.jpg)
 FSM
