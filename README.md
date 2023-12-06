@@ -19,6 +19,9 @@ In this game, only text appears on the screen, specifying tasks for the player, 
 
 
 
+
+
+
 ## Milestone 2
 System diagram
 ![image description](./c.jpg)
