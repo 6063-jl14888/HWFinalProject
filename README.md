@@ -47,7 +47,7 @@ I have always believed that the fusion of music and visuals offers a deeply enga
 
 
 
-## Milestone 2
+## Milestone 3
 **System diagram**
 ![image description](./d.png)
 
