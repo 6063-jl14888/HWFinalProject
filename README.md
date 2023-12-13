@@ -23,7 +23,7 @@ In this game, only text appears on the screen, specifying tasks for the player, 
 
 
 ## Milestone 2
-**System diagram**
+**Idea**
 ![image description](./c.jpg)
 **FSM diagram**
 ![image description](./a.jpg)
@@ -44,3 +44,32 @@ User testing plan:
 Regarding the integration of these functionalities, the challenge lies in combining two programs and devices with slight language differences. I encountered difficulties when the languages on both sides couldn't be recognized. Integrating multiple features may introduce various limitations and potential errors in code writing and expression. With the inclusion of buttons, potentiometers, and LEDs, we are dealing with readings from two different sources, resembling a more complex combination lock.
 
 I have always believed that the fusion of music and visuals offers a deeply engaging and delightful experience. I aim to experiment with different visual effects and explore the fascinating world of illuminated displays. I hope to successfully showcase my favorite features – lights, interaction, visuals, and music – in this assignment.
+
+
+
+## Milestone 2
+**System diagram**
+![image description](./d.png)
+
+This week, I've almost resolved all coding issues between Arduino and p5.js. Following discussions with the professor, I transitioned from the initial effects of two buttons to achieving a complete effect with seven buttons.
+
+Here are the coding issues I encountered last week:
+
+1, the problem that the button effect is not displayed after two buttons
+2, the page is not displayed in the problem
+3, button input is empty problem
+4, the problem that the wave is not continuous
+5, How to show the effect of water wave in wave.
+6, Audio problem (sound library in P5js is used here to make the sound more like music)
+These are the problems about coding that I met last week
+
+In addition, I successfully tackled circuit connection issues on the Arduino breadboard. Due to the need for seven buttons to be connected in parallel, each with an individual LED in series, the wiring on the breadboard became complex. This complexity increased the likelihood of misconnections or errors. Initially, doubts arose about whether the lack of a complete wave display on the screen was due to poor contact or faulty components on the breadboard. However, after connecting the LEDs and observing their illumination and extinguishing, I confirmed the integrity of the components.
+
+With guidance from the professor, I streamlined the code, reducing it from several hundred lines to just a few dozen. This not only enhanced readability but also clarified the logic of the code.
+
+After completing the Arduino-related code this week, my focus for the upcoming week will be on adjusting and adding visual elements for p5.js display on the screen. This involves:
+
+1, make the part of the wave display look more like a stage (or a digital style interface)
+2, Complete another part of the vertical line in the idea. And add animation for on-screen interaction
+3, The style of the animation should be the same as the overall effect. Make the whole project more interactive and playable.
+
