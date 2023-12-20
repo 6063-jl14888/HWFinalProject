@@ -85,12 +85,12 @@ After completing the Arduino-related code this week, my focus for the upcoming w
 ## Circuit diagram
 ![image description](./b.jpg)
 
-**Description of any external data or library that you are planning to use**
+**”Description of any external data or library that you are planning to use“**
 
 - p5.webserial
 - p5.sound
 
-**Description of any sensor, output component or mechanism that you are planning on using or building**
+**”Description of any sensor, output component or mechanism that you are planning on using or building“**
 
 First and foremost, the project can be divided into three main parts: p5.js, Arduino, and the integration of both elements.
 
@@ -100,7 +100,7 @@ In the collaborative section, based on my concept, users can play an instrument 
 
 
 
-**Short discussion of why your project is relevant**
+**”Short discussion of why your project is relevant“**
 1. how is it related to our readings?
 
 
