@@ -102,8 +102,22 @@ In the collaborative section, based on my concept, users can play an instrument 
 
 **”Short discussion of why your project is relevant“**
 1. how is it related to our readings?
-
-
 2. how does it connected to society?
 3. why is it important to you?
 
+Throughout this semester, we have read a lot, to be precise, new information and articles every week.  Sometimes it's books, and sometimes it's websites.  In this process, we have been shown how programming is understood from many perspectives, the relationship between programming and the world, and what we are doing with programming and how it is continuously changing the world.  In an era where technology and information change rapidly, how should we view this skill, or technology and other related topics?  All of this is helping us understand what we are learning.
+
+While constantly reading, we are also deepening our programming knowledge.  We started to explore the languages "JAVA" and "C++" related to it.  We wrote code in these two languages on different systems and successfully made them work together.  This was fascinating for me because I had no prior knowledge related to this.  So, I began to think about whether I could create something meaningful to me, as mentioned in some articles I had read.  It is a tool for us to communicate with the world, and it is almost everywhere.  Does this mean I can use it to realize my own small wish?
+
+For me personally, I really like things that are visually complex but clear, simply put, things composed of lines.  In my mind, interactive devices must have sound, even if it's just the sound of the wind, to help users get different feelings.  So, how can I incorporate these factors into external devices?  Thinking about appealing visual effects, line styles, sound, and interactive devices, I turned my attention to buttons.  This is actually a small wish of mine.  I hope to create a device that can make sounds.  In my previous experiences, I had close contact with some electronic percussion instruments.  They don't look anything like traditional instruments—bulky or facing issues like string breakage.  At the same time, they occupy a small space and can be made into any shape we like, paired with different lights.  It's really cool.  I also want to try making something like that.  However, as a beginner, it's naturally impossible to achieve it all at once.  I simplified these factors into the most basic elements I thought of, forming the basis of my project.
+
+Buttons, lights, effects, and sound.
+
+These are the four main elements of my project.  I fixed the components I wanted on the breadboard, forming a touchable part.  On the computer, I displayed effects, colors, and sounds to complete the collaborative part of the project.  I don't like my screen being empty, so I added text and some line decorations (also including some very simple interactive animations).  The process of completing this project was tedious and challenging.  It involved the part of sound, which I had never encountered before, leading to the realization that the sound library I initially found was not the best choice, and the emitted sounds could only be described as usable.  As for the visual effects, it gave me a headache because in the initial stages both sides of the code could run successfully, but nothing showed up on the screen.  I tried many ways, initially suspecting that there was a problem with the external components, causing the circuit to be unsuccessful.  However, after using LEDs to check, I found no issues.  But the effects I expected did not appear on the screen.  Fortunately, later on, I sought help from the professor, resolving every problem I encountered, making this project finally successful.
+
+This project can be said to entirely stem from personal wishes and needs, but at the same time, I gained a lot.  Because such effects can be universally applied in many scenarios and devices, it helps me better understand their working principles and the logic in programming content.  If I must say this project has a connection with society, then it is helping me gain a deeper understanding of items in society, and the appearance of this interactive device makes it easier for people who like music or instruments to meet.
+
+
+**”Short discussion of feedback from user testing“**
+
+I will add this part after class.
