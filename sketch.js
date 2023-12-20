@@ -5,17 +5,14 @@ let s0 = "| WaveDynamics |"
 let totalLines = 7;
 let spacing;
 let swayAmount = 100;
-let swaySpeed = 0.05;
+let Speed = 0.05;
 
-// serial variables
 let mSerial;
 let connectButton;
 let readyToReceive;
 
-// project variables
 let waves = [];
 let waveCount = [0, 0, 0, 0, 0, 0, 0];
-
 
 let d2, d3, d4, d5, d6, d7, d8;
 
@@ -221,7 +218,7 @@ for (let i = 1; i <= totalLines; i++) {
 
     let isMouseNear = mouseX > x - spacing / 2 && mouseX < x + spacing / 2;
 
-    let sway = isMouseNear ? sin(frameCount * swaySpeed) * swayAmount : 0;
+    let sway = isMouseNear ? sin(frameCount * Speed) * swayAmount : 0;
 
     line(x, startY, x, endY - sway);
     ellipse(x, endY - sway, 10, 10);

@@ -73,3 +73,22 @@ After completing the Arduino-related code this week, my focus for the upcoming w
 2, Complete another part of the vertical line in the idea. And add animation for on-screen interaction
 3, The style of the animation should be the same as the overall effect. Make the whole project more interactive and playable.
 
+
+
+# FINAL Milestone !!!!!!
+## Idea
+![image description](./c.jpg)
+## System diagram
+![image description](./d.png)
+## FSM diagram
+![image description](./a.jpg)
+## Circuit diagram
+![image description](./b.jpg)
+
+**Description of any external data or library that you are planning to use:**
+- p5.webserial
+- p5.sound
+
+**Description of any external data or library that you are planning to use:**
+
+
