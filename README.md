@@ -85,10 +85,18 @@ After completing the Arduino-related code this week, my focus for the upcoming w
 ## Circuit diagram
 ![image description](./b.jpg)
 
-**Description of any external data or library that you are planning to use:**
+**Description of any external data or library that you are planning to use**
 - p5.webserial
 - p5.sound
 
-**Description of any external data or library that you are planning to use:**
+**Description of any sensor, output component or mechanism that you are planning on using or building**
+First and foremost, the project can be divided into three main parts: p5.js, Arduino, and the integration of both elements.
 
+In the p5.js segment, I've implemented text and line effects displayed on the screen.  For the Arduino part, I've utilized an Arduino board, wires, resistors, seven LEDs, and seven buttons, crucial components that contribute to the core functionality of the project.  Successful interaction is achieved when these components work in conjunction with the p5.js code.
+
+In the collaborative section, based on my concept, users can play an instrument using the seven buttons.  Pressing a button triggers a unique sound, simultaneously lighting up the corresponding LED and initiating a wave effect on the screen.  Multiple buttons can be pressed simultaneously.  Releasing the buttons causes the wave effect to gradually fade away.
+
+
+
+**Description of any sensor, output component or mechanism that you are planning on using or building**
 
