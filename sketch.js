@@ -10,6 +10,7 @@ let readyToReceive;
 let waves = [];
 let waveCount = [0, 0, 0, 0, 0, 0, 0];
 
+
 let d2, d3, d4, d5, d6, d7, d8;
 
 let mOsc;
@@ -204,6 +205,8 @@ function draw() {
   text(s0, width / 2, 80);
 
   fill(255)
+
+  
 
   drawwave();
 
