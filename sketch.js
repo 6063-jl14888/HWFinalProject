@@ -1,6 +1,12 @@
 
 let mFont;
 let s0 = "| WaveDynamics |"
+
+let totalLines = 7;
+let spacing;
+let swayAmount = 100;
+let swaySpeed = 0.05;
+
 // serial variables
 let mSerial;
 let connectButton;
@@ -192,6 +198,8 @@ function setup() {
   mOsc.freq(mLfo);
   mOsc.amp(mEnv);
   mOsc.start();
+
+  spacing = width / (totalLines + 1);
 }
 
 function draw() {
@@ -204,7 +212,24 @@ function draw() {
   textAlign(CENTER);
   text(s0, width / 2, 80);
 
-  fill(255)
+  fill(255);
+
+for (let i = 1; i <= totalLines; i++) {
+    let x = i * spacing;
+    let startY = height / 2 - 200;
+    let endY = height / 2 + 200;
+
+    let isMouseNear = mouseX > x - spacing / 2 && mouseX < x + spacing / 2;
+
+    let sway = isMouseNear ? sin(frameCount * swaySpeed) * swayAmount : 0;
+
+    line(x, startY, x, endY - sway);
+    ellipse(x, endY - sway, 10, 10);
+}
+stroke(255)
+
+
+
 
   
 
