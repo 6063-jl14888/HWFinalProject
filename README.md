@@ -85,10 +85,15 @@ After completing the Arduino-related code this week, my focus for the upcoming w
 ## Circuit diagram
 ![image description](./b.jpg)
 
+
+
 **”Description of any external data or library that you are planning to use“**
 
 - p5.webserial
 - p5.sound
+
+
+
 
 **”Description of any sensor, output component or mechanism that you are planning on using or building“**
 
@@ -97,6 +102,8 @@ First and foremost, the project can be divided into three main parts: p5.js, Ard
 In the p5.js segment, I've implemented text and line effects displayed on the screen.  For the Arduino part, I've utilized an Arduino board, wires, resistors, seven LEDs, and seven buttons, crucial components that contribute to the core functionality of the project.  Successful interaction is achieved when these components work in conjunction with the p5.js code.
 
 In the collaborative section, based on my concept, users can play an instrument using the seven buttons.  Pressing a button triggers a unique sound, simultaneously lighting up the corresponding LED and initiating a wave effect on the screen.  Multiple buttons can be pressed simultaneously.  Releasing the buttons causes the wave effect to gradually fade away.
+
+
 
 
 
@@ -116,6 +123,10 @@ Buttons, lights, effects, and sound.
 These are the four main elements of my project.  I fixed the components I wanted on the breadboard, forming a touchable part.  On the computer, I displayed effects, colors, and sounds to complete the collaborative part of the project.  I don't like my screen being empty, so I added text and some line decorations (also including some very simple interactive animations).  The process of completing this project was tedious and challenging.  It involved the part of sound, which I had never encountered before, leading to the realization that the sound library I initially found was not the best choice, and the emitted sounds could only be described as usable.  As for the visual effects, it gave me a headache because in the initial stages both sides of the code could run successfully, but nothing showed up on the screen.  I tried many ways, initially suspecting that there was a problem with the external components, causing the circuit to be unsuccessful.  However, after using LEDs to check, I found no issues.  But the effects I expected did not appear on the screen.  Fortunately, later on, I sought help from the professor, resolving every problem I encountered, making this project finally successful.
 
 This project can be said to entirely stem from personal wishes and needs, but at the same time, I gained a lot.  Because such effects can be universally applied in many scenarios and devices, it helps me better understand their working principles and the logic in programming content.  If I must say this project has a connection with society, then it is helping me gain a deeper understanding of items in society, and the appearance of this interactive device makes it easier for people who like music or instruments to meet.
+
+
+
+
 
 
 **”Short discussion of feedback from user testing“**
