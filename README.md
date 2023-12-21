@@ -131,4 +131,8 @@ This project can be said to entirely stem from personal wishes and needs, but at
 
 **”Short discussion of feedback from user testing“**
 
-I will add this part after class.
+During a presentation in class and subsequent attempts by classmates and the teacher, I encountered some issues, primarily related to the equipment. Due to the compact size of the breadboard, the spacing between each button was limited. Additionally, since each button was connected in parallel in the circuit, the wires and resistors crisscrossed over the button locations, making the act of pressing the buttons difficult. Furthermore, the constant movement caused some components to be insecurely placed, leading to displacement and potential detachment.
+
+If I continue to refine this project in the future, I will seek convenient ways to address these issues. Another concern is related to the accuracy of the sound. Since the tones were selected digitally, there were discrepancies compared to the sound produced by actual musical instruments. Moreover, there was no way to adjust the pitch, preventing the rendition of certain melodies.
+
+If I proceed with further improvements on this project, I will explore solutions to these challenges.
